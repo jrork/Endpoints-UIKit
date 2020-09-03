@@ -13,6 +13,7 @@
 		0DABED3625013030001F46B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DABED3425013030001F46B0 /* Main.storyboard */; };
 		0DABED382501303A001F46B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DABED372501303A001F46B0 /* Assets.xcassets */; };
 		0DABED3B2501303A001F46B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DABED392501303A001F46B0 /* LaunchScreen.storyboard */; };
+		0DABED43250136F1001F46B0 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DABED42250136F1001F46B0 /* Endpoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0DABED372501303A001F46B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DABED3A2501303A001F46B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DABED3C2501303A001F46B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DABED42250136F1001F46B0 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0DABED2E2501302F001F46B0 /* AppDelegate.swift */,
 				0DABED3025013030001F46B0 /* SceneDelegate.swift */,
 				0DABED3225013030001F46B0 /* ViewController.swift */,
+				0DABED42250136F1001F46B0 /* Endpoint.swift */,
 				0DABED3425013030001F46B0 /* Main.storyboard */,
 				0DABED372501303A001F46B0 /* Assets.xcassets */,
 				0DABED392501303A001F46B0 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				0DABED3325013030001F46B0 /* ViewController.swift in Sources */,
 				0DABED2F25013030001F46B0 /* AppDelegate.swift in Sources */,
+				0DABED43250136F1001F46B0 /* Endpoint.swift in Sources */,
 				0DABED3125013030001F46B0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
