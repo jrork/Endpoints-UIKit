@@ -11,5 +11,7 @@ import Foundation
 struct Endpoint: Codable {
     var id: UUID?
     var name: String
-    var URL: String
+    var url: String
 }
+
+

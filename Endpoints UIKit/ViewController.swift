@@ -51,7 +51,7 @@ class ViewController: UITableViewController {
         let endpoint = endpoints[indexPath.row]
     
         cell.textLabel?.text = endpoint.name
-        cell.detailTextLabel?.text = endpoint.URL
+        cell.detailTextLabel?.text = endpoint.url
         
         return cell
     }
